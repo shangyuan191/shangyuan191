@@ -28,12 +28,14 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
   * Continuing the development of a project related to campus surveillance system and access control system
   * Serving as a system administrator for AI servers, primarily focusing on VPN management.
 
-- **NCKU Hospital** (Sep. 2022 - Dec. 2022) - **Research Assistant**:
-  * Develop a system utilized various Python data processing packages and Google Drive API
-  * Perform data cleaning, generate standardized datasets, and provide data visualization capabilities.
+
 
 
 ## Academic Experience
+- **NCKU Hospital** (Sep. 2022 - Dec. 2022) - **Research Assistant**:
+  * Develop a system utilized various Python data processing packages and Google Drive API
+  * Perform data cleaning, generate standardized datasets, and provide data visualization capabilities.
+  
 - **Programming Lecture** (Feb., Jul. 2023 & Jan. 2024):
   * Led C & Python programming workshops for AIOT/APCS programs, collaborating with NCKU and NYCU
 
