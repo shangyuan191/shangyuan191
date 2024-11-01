@@ -102,4 +102,4 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 
 ## Contact Me
 - **Gmail**: shangyuanchuang.skyler@gmail.com
-- **LinkedIn**: [Shang-Yuan Chuang](www.linkedin.com/in/shang-yuan-chuang)
+- **LinkedIn**: [Shang-Yuan Chuang](www.linkedin.com/in/shang-yuan-chuang/)
