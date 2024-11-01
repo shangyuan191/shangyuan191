@@ -82,7 +82,7 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ## Skills
 
 ### Languages
-- Python, C, C++, JAVA, bash shell script
+- Python, C, C++, JAVA, bash shell script, Assembly
 
 ### Machine Learning & Deep Learning
 - PyTorch, Pandas, Scikit-learn
