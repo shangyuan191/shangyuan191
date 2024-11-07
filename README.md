@@ -94,8 +94,8 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ### Cloud
 - GCP
 
-### Tools
-- Git, GitHub
+### Tools & Frameworks
+- Git, GitHub, Gitlab, Jira, Confluence, CI/CD, PyQt, MVC
 
 ### Operating System
 - Linux, Windows
