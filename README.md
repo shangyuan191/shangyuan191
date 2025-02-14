@@ -49,6 +49,10 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ---
 
 ## Projects
+- **Few Shot Tabular Learning**
+  * Team up GNN and SOTA Tabular Models. Exploring GNN’s potential in few-shot tabular tasks.
+  *  Tech Stack: Tree-based model, Transformer, Large Language Model(LLM), Graph Convolutional Network(GCN), HuggingFace
+
 - **Fake News Detection**
   * Developed a robust detection model that achieves 95% accuracy in classifying news content as real or fake.
   * Tech Stack: Large Language Model(LLM), Graph Convolutional Network(GCN), HuggingFace
