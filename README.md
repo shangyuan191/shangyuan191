@@ -75,6 +75,8 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ---
 
 ## Achievements
+- **2025 TSMC IT CareerHack 2nd Place**:
+ Our products(GGWhisPer) is a real-time translation system that can help enterprises to communicate with their foreign clients or partners. GGWhisPer can translate the spoken language into text and then translate it into the target language. It can also translate the text into the target language and then convert it into speech. GGWhisPer can help enterprises to communicate with their foreign clients or partners more effectively and efficiently.
 - **Rank 23/300, AI CUP 2023 Spring**:
   * Co-organized by the Ministry of Education and TrendMicro.
   * Our competition theme focused on Natural Language Processing
