@@ -16,7 +16,7 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 
 ## Internship Experience
 
-- **Qualcomm** (Jul. 2025 - Jan. 2026) - **Machine Learning(GenAI) Engineer Intern**:
+- **Qualcomm** (Jul. 2025 - Jan. 2026) - **Machine Learning (GenAI) Engineer Intern**:
   * Collaborate on developing generative AI models and deploying/fine-tuning LLMs on AWS
   * while conducting research, experiments, and data analysis to continuously improve model performance and algorithms. 
 
