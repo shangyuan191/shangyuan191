@@ -15,6 +15,11 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ---
 
 ## Internship Experience
+
+- **Qualcomm** (Jul. 2025 - Jan. 2026) - **Machine Learning(GenAI) Engineer Intern**:
+  * Collaborate on developing generative AI models and deploying/fine-tuning LLMs on AWS
+  * while conducting research, experiments, and data analysis to continuously improve model performance and algorithms. 
+
 - **Micron** (Jul. 2024 - Aug. 2024) - **Data Engineer Intern**:
   * Implement data quality check pipeline to monitor data missing.Successfully detected about 50% data loss
   * Retrieve data from BigQuery on GCP, run a Python script in Vertex AI VM to detect missing data, deploy it as a routine job, and visualize the results on GCP.
