@@ -9,16 +9,18 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ---
 
 ## Currently Working On
-- **Few Shot Learning on Tabular Deep Learning** (GNN, LLM, Tabular Data, Transformer)
-- **Few Shot Learning on Fake News Detection** (GCN, BERT)
+- **Systematic Analysis of GNN Injection in Tabular Deep Learning
 
 ---
 
 ## Internship Experience
 
 - **Qualcomm** (Jul. 2025 - Jan. 2026) - **Machine Learning (GenAI) Engineer Intern**:
-  * Collaborate on developing generative AI models and deploying/fine-tuning LLMs on AWS
-  * while conducting research, experiments, and data analysis to continuously improve model performance and algorithms. 
+  * Benchmarked agentic AI frameworks and integrated internal LLM APIs for test automation.
+  * Built a LangGraph-based AI agent with human-in-loop Streamlit interface for test data generation.
+
+- **Institute of Information Science, Academia Sinica** (Dec. 2024) - **Research Assistant**
+  * Conducted GNN research aligned with master’s thesis under PI supervision.
 
 - **Micron** (Jul. 2024 - Aug. 2024) - **Data Engineer Intern**:
   * Implement data quality check pipeline to monitor data missing.Successfully detected about 50% data loss
@@ -53,10 +55,13 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 - **Server Administrator** - **NCKU CSIE NetAI Lab** (Jul. 2024 - Jul. 2025)
 ---
 
-## Projects
-- **Few Shot Tabular Learning**
-  * Team up GNN and SOTA Tabular Models. Exploring GNN’s potential in few-shot tabular tasks.
+## Research Thesis
+- **Systematic Analysis of GNN Injection in Tabular Deep Learning**
+  *  Systematic study of stage-wise GNN integration for tabular deep learning.
   *  Tech Stack: Tree-based model, Transformer, Large Language Model(LLM), Graph Convolutional Network(GCN), HuggingFace
+
+## Projects
+
 
 - **Fake News Detection**
   * Developed a robust detection model that achieves 95% accuracy in classifying news content as real or fake.
