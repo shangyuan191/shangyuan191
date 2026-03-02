@@ -9,11 +9,17 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ---
 
 ## Currently Working On
-- **Systematic Analysis of GNN Injection in Tabular Deep Learning
+- **Systematic Analysis of GNN Injection in Tabular Deep Learning**
 
 ---
 
 ## Internship Experience
+
+- **NCHC** (Mar. 2026 - present) - **AI Infra (LLM DevOps) Engineer Intern**:
+  * Deployed and operated LLM services on an HPC-based AI platform, building model serving and inference pipelines (vLLM, Ollama, NVIDIA NIM).
+  * Developed RAG pipelines with vector database integration and supported workflow orchestration and API-based AI applications.
+  * Implemented observability and reliability features (logging, monitoring, tracing, sandbox testing) and collaborated with platform engineers on internal RAP system integration.
+ 
 
 - **Qualcomm** (Jul. 2025 - Jan. 2026) - **Machine Learning (GenAI) Engineer Intern**:
   * Benchmarked agentic AI frameworks and integrated internal LLM APIs for test automation.
