@@ -16,9 +16,9 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 ## Internship Experience
 
 - **NCHC** (Mar. 2026 - present) - **AI Infra (LLM DevOps) Engineer Intern**:
-  * Deployed and operated LLM services on an HPC-based AI platform, building model serving and inference pipelines (vLLM, Ollama, NVIDIA NIM).
-  * Developed RAG pipelines with vector database integration and supported workflow orchestration and API-based AI applications.
-  * Implemented observability and reliability features (logging, monitoring, tracing, sandbox testing) and collaborated with platform engineers on internal RAP system integration.
+  * Benchmark LLM inference frameworks and KV-cache management strategies on AMD GPU clusters.
+  * Analyze performance bottlenecks in large-scale model serving workloads across HPC infrastructure.
+  * Build and maintain scalable AI service pipelines for LLM applications, including RAG systems and observability tooling.
  
 
 - **Qualcomm** (Jul. 2025 - Jan. 2026) - **Machine Learning (GenAI) Engineer Intern**:
