@@ -15,7 +15,7 @@ I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Scienc
 
 ## Internship Experience
 
-- **NCHC** (Mar. 2026 - present) - **AI Infra (LLM DevOps) Engineer Intern**:
+- **NCHC** (Mar. 2026 - present) - **AI Systems & LLM Infrastructure Intern (LLM DevOps Team)**:
   * Benchmark LLM inference frameworks and KV-cache management strategies on AMD GPU clusters.
   * Analyze performance bottlenecks in large-scale model serving workloads across HPC infrastructure.
   * Build and maintain scalable AI service pipelines for LLM applications, including RAG systems and observability tooling.
