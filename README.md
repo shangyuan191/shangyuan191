@@ -1,91 +1,124 @@
-# Hi there! I'm Shang-Yuan Chuang(Skyler) 👋
+# Hi there! I'm Shang-Yuan Chuang (Skyler) 👋
 
 ## About Me
-I am Shang-Yuan Chuang, currently pursuing my master's degree in Computer Science & Information Engineering at National Cheng Kung University.
 
-**Research Domain**: Graph Neural Network, Large Language Model, Tabular Deep Learning, DL, ML, Data Science, Data Engineering, Embedded System, Unix System Administration, Software Development
-.
+Incoming Ph.D. student in Computer Science and Information Engineering at National Taiwan University (NTU), joining Prof. Yun-Nung (Vivian) Chen's MiuLab.
+
+My research and engineering interests lie at the intersection of **AI Systems, Large Language Models (LLMs), Machine Learning Systems, and Applied AI Research**. I enjoy bridging the gap between cutting-edge AI research and real-world deployment, with experience ranging from LLM infrastructure and GPU serving systems to agentic AI applications and graph machine learning.
+
+Previously, I worked as:
+
+* AI Systems & LLM Infrastructure Intern @ NCHC
+* Machine Learning Engineer Intern @ Qualcomm
+* Research Assistant @ Academia Sinica
+* Data Engineer Intern @ Micron
+* Software Engineer Intern @ Phison
+
+My recent work focuses on:
+
+* LLM Inference Systems
+* vLLM & KV Cache Optimization
+* Multi-GPU Serving
+* Agentic AI Systems
+* Graph Neural Networks
+* Empirical Machine Learning Research
 
 ---
 
-## Currently Working On
-- **Systematic Analysis of GNN Injection in Tabular Deep Learning**
+## Research Interests
+
+* AI Systems
+* Large Language Models (LLMs)
+* LLM Infrastructure
+* Machine Learning Systems
+* Agentic AI
+* Graph Neural Networks
+* Tabular Deep Learning
+* Distributed Inference Systems
 
 ---
 
-## Internship Experience
+## Current Focus
 
-- **NCHC** (Mar. 2026 - present) - **AI Systems & LLM Infrastructure Intern (LLM DevOps Team)**:
-  * Benchmark LLM inference frameworks and KV-cache management strategies on AMD GPU clusters.
-  * Analyze performance bottlenecks in large-scale model serving workloads across HPC infrastructure.
-  * Build and maintain scalable AI service pipelines for LLM applications, including RAG systems and observability tooling.
- 
+### AI Systems & LLM Infrastructure
 
-- **Qualcomm** (Jul. 2025 - Jan. 2026) - **Machine Learning (GenAI) Engineer Intern**:
-  * Benchmarked agentic AI frameworks and integrated internal LLM APIs for test automation.
-  * Built a LangGraph-based AI agent with human-in-loop Streamlit interface for test data generation.
+* Benchmarking vLLM and KV-cache systems on AMD MI300X GPU clusters
+* Investigating Prefill-Decode Disaggregation (PD)
+* Multi-GPU LLM serving optimization
+* LLM inference performance analysis
 
-- **Institute of Information Science, Academia Sinica** (Dec. 2024) - **Research Assistant**
-  * Conducted GNN research aligned with master’s thesis under PI supervision.
+### Research
 
-- **Micron** (Jul. 2024 - Aug. 2024) - **Data Engineer Intern**:
-  * Implement data quality check pipeline to monitor data missing.Successfully detected about 50% data loss
-  * Retrieve data from BigQuery on GCP, run a Python script in Vertex AI VM to detect missing data, deploy it as a routine job, and visualize the results on GCP.
+**Graphifying Neural Tabular Learning: Benchmarking and Insights**
 
+* First-author master's thesis research
+* Submitted to ACM SIGKDD 2026 (Datasets & Benchmarks Track)
+* Systematic study of graph-based enhancement techniques for tabular learning
 
-- **Phison** (Mar. 2024 - Jun. 2024) - **Software Engineer Intern**:
-  * Use data visualization, data mining, machine learning, and deep learning technologies to process and predict firmware product code bug root causes.
-  * Develop an Automated Branch Creation and Patch Application Tool Using GitPython.
-
-- **Accton** (Jun. 2023 - Jan. 2024) - **Software Engineer Intern**:
-  * Continuing the development of a project related to campus surveillance system and access control system
-  * Serving as a system administrator for AI servers, primarily focusing on VPN management.
-
-
-
-
-## Academic Experience
-- **NCKU Hospital** (Sep. 2022 - Dec. 2022) - **Research Assistant**:
-  * Develop a system utilized various Python data processing packages and Google Drive API
-  * Perform data cleaning, generate standardized datasets, and provide data visualization capabilities.
-  
-- **Programming Lecture** (Feb., Jul. 2023 & Jan. 2024):
-  * Led C & Python programming workshops for AIOT/APCS programs, collaborating with NCKU and NYCU
-
-- **Course TA** - **NCKU CSIE**
-  * Head Teaching Assistant (Introduction to Data Science)
-  * Teaching Assistant (Microprocessor Principles and Applications,**EMI Course**)
-
-- **Teacher Education Program** - **NCKU** (Sep. 2020 - Jun. 2023)
-- **International Service Volunteer** - **NCKU** (Sep. 2020 - Jun. 2023)
-- **Server Administrator** - **NCKU CSIE NetAI Lab** (Jul. 2024 - Jul. 2025)
 ---
 
-## Research Thesis
-- **Systematic Analysis of GNN Injection in Tabular Deep Learning**
-  *  Systematic study of stage-wise GNN integration for tabular deep learning.
-  *  Tech Stack: Tree-based model, Transformer, Large Language Model(LLM), Graph Convolutional Network(GCN), HuggingFace
+## Experience
 
-## Projects
+### National Center for High-performance Computing (NCHC)
+
+**AI Systems & LLM Infrastructure Intern** | Mar. 2026 – Present
+
+* Benchmarking LLM inference frameworks (vLLM, LMCache, KV Cache)
+* Evaluating latency-throughput trade-offs on AMD MI300X clusters
+* Investigating multi-GPU serving and Prefill-Decode disaggregation
+
+### Qualcomm
+
+**Machine Learning Engineer Intern** | Jul. 2025 – Jan. 2026
+
+* Developed agentic AI systems for semiconductor testing automation
+* Built LangGraph-based workflows integrated with internal LLM APIs
+* Reduced manual test-script modification effort by 60–80%
+
+### Academia Sinica
+
+**Research Assistant** | Dec. 2024
+
+* Conducted Graph Neural Network research
+* Supported master's thesis experiments and analysis
+
+### Micron
+
+**Data Engineer Intern** | Jul. 2024 – Aug. 2024
+
+* Built GCP-based data quality monitoring pipelines
+* Leveraged BigQuery and Vertex AI to detect large-scale missing data
+
+### Phison Electronics
+
+**Software Engineer Intern** | Mar. 2024 – Jun. 2024
+
+* Applied ML/DL techniques to firmware bug analysis
+* Developed Git automation tools using GitPython
+
+---
+
+## Selected Achievements
+
+🥈 2nd Place — TSMC IT CareerHack 2025
+
+* Built a multilingual AI meeting assistant
+* Tech Stack: GCP, FastAPI, RAG, LLM
+
+📄 First Author Submission — ACM SIGKDD 2026
+
+* Graphifying Neural Tabular Learning: Benchmarking and Insights
+
+🎓 Incoming Ph.D. Student
+
+* National Taiwan University CSIE
+* MiuLab (Prof. Yun-Nung Vivian Chen)
+
+---
 
 
-- **Fake News Detection**
-  * Developed a robust detection model that achieves 95% accuracy in classifying news content as real or fake.
-  * Tech Stack: Large Language Model(LLM), Graph Convolutional Network(GCN), HuggingFace
-
-- **Mission Undercover**
-  * Developed a real-time multiplayer online game by JAVA & socket-programming & VPN tool(Hamachi)
-
-- **Pic18 Microprocessor boxing game**
-  * Developed a classic joystick-controlled boxing game using a PIC18 microprocessor, C#, and Unity.
-
-- **Base Station Simulator**
-  * Write a simulator using Python with the Pygame library to model a city with multiple base stations of varying bandwidths and a variable number of mobile devices. The devices will connect to the base stations using four different algorithms, and the simulator will compare the signal strength under each algorithm.
 
 
-- **Simple Go compiler**
-  * Developed a simple Go Compiler using lex and yacc
-  * First, implement a scanner using Lex, then create a parser with Yacc, and use a symbol table to record each variable and function. Next, generate Java bytecode for each instruction so that the program can execute smoothly.
 
 
 ---
@@ -115,30 +148,32 @@ Our products(GGWhisPer) is a real-time translation system that can help enterpri
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white)
 
-### Machine Learning & Deep Learning
+### AI & LLM Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat)
+![ROCm](https://img.shields.io/badge/AMD%20ROCm-E01F27?style=flat&logo=amd&logoColor=white)
+![LMCache](https://img.shields.io/badge/LMCache-4285F4?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### Data & Cloud
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![VertexAI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### Cloud
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-### Tools & Frameworks
+### Systems & Development
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2496ED?style=flat&logo=github-actions&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-008080?style=flat)
 
-### Operating System
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
 
 ---
 
