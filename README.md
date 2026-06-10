@@ -153,8 +153,11 @@ Our products(GGWhisPer) is a real-time translation system that can help enterpri
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=flat&logo=nvidia&logoColor=white)
 ![ROCm](https://img.shields.io/badge/AMD%20ROCm-E01F27?style=flat&logo=amd&logoColor=white)
 ![LMCache](https://img.shields.io/badge/LMCache-4285F4?style=flat)
+![RAG](https://img.shields.io/badge/RAG-7B68EE?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### Data & Cloud
